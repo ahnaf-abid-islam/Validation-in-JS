@@ -8,7 +8,7 @@ function myFunction(){
     }
 }
 
-const display = document.getElementById("result");
+const display = document.getElementById("calcResult");
 
 function setScreenValue(value){
     display.value += value;
